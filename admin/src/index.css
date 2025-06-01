@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:wght@200;300;400;500;600&display=swap'); */
+
+
+
+@theme {
+--color-primary:#5f6FFF;
+}
+
+::-webkit-scrollbar{
+    @apply hidden;
+}
