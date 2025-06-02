@@ -20,7 +20,7 @@ app.use(cors({
     'https://prescripto-2-1puq.onrender.com',
     'https://prescripto-admin-jdbv.onrender.com'
   ],
-  credentials: true,
+
 }));
 
 //api endpoint
