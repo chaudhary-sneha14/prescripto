@@ -16,7 +16,7 @@ connectCloudinary()
 //middleware
 app.use(express.json())
 app.use(cors({
-  origin: 'https://prescripto-client.onrender.com',
+  origin:  'https://prescripto-2-1puq.onrender.com',
   credentials: true, // optional: only if using cookies or auth headers
 }));
 
