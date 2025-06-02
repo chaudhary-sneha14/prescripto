@@ -15,7 +15,10 @@ connectCloudinary()
 
 //middleware
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: 'https://prescripto-client.onrender.com',
+  credentials: true, // optional: only if using cookies or auth headers
+}));
 
 //api endpoint
 app.use('/api/admin',adminRouter)  //localhost:4000/api/admin/add-doctor
