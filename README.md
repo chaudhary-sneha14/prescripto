@@ -2,9 +2,10 @@
 🎬 Doctor Appointment Booking System – PRESCRIPTO
 
 A full-stack Doctor Appointment Booking System built using the MERN Stack. Patients can book appointments online, Doctors can manage schedules and earnings, and Admins can manage doctors and appointments.
+
 This system provides a smooth, modern, and responsive UI suitable for clinics, hospitals, or individual doctors.
 
-## 🧾 Screenshots / Demo
+## 🧾 Demo
 
 * **Home Page**
 <img width="1905" height="883" alt="image" src="https://github.com/user-attachments/assets/802eb809-1d44-4f88-9cc8-95513569b842" />
@@ -20,15 +21,22 @@ This system provides a smooth, modern, and responsive UI suitable for clinics, h
 
 
 🚀 Features
+
 👤 Patient Features
 
 Signup & login
+
 Browse doctor specialties
+
 View doctor details
+
 Book appointments online
+
 Pay for appointments securely
+
 Manage booked appointments
-Email notifications (confirmation, reminders, new doctors)
+
+E
 
 
 
@@ -37,16 +45,23 @@ Email notifications (confirmation, reminders, new doctors)
 Frontend
 
 React.js
-Tailwind CSS / Custom CSS
+
+Tailwind CSS 
+
 React Router
+
 Axios
 
 Backend
 
 Node.js
+
 Express.js
+
 MongoDB + Mongoose
+
 Authentication & Jobs
+
 JWT-based role authentication
 
 
@@ -59,11 +74,15 @@ DoctorAppointment/
 │── .env
 
 🔧 Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/chaudhary-sneha14/prescripto.git
+
 cd prescripto
 
 2️⃣ Setup Backend
+
 cd server
 npm install
 
@@ -81,6 +100,7 @@ Run backend:
 npm run dev
 
 3️⃣ Setup Frontend
+
 cd ../client
 npm install
 npm start
@@ -111,3 +131,4 @@ If you like this project, don’t forget to ⭐ star the repository!
 
 Sneha Chaudhary
 GitHub: https://github.com/chaudhary-sneha14
+
