@@ -36,12 +36,13 @@ Pay for appointments securely
 
 Manage booked appointments
 
-E
+
 
 
 
 
 🧩 Tech Stack
+
 Frontend
 
 React.js
@@ -66,6 +67,7 @@ JWT-based role authentication
 
 
 📂 Folder Structure
+
 DoctorAppointment/
 │── client/        # Frontend (React)
 │── server/        # Backend (Node + Express)
@@ -90,8 +92,11 @@ npm install
 Create a .env file:
 
 PORT=5000
+
 MONGO_URL=your_mongo_url
+
 JWT_SECRET=your_jwt_secret
+
 CLIENT_URL=http://localhost:3000
 
 
@@ -102,7 +107,9 @@ npm run dev
 3️⃣ Setup Frontend
 
 cd ../client
+
 npm install
+
 npm start
 
 
@@ -130,5 +137,7 @@ If you like this project, don’t forget to ⭐ star the repository!
 👩‍💻 Author
 
 Sneha Chaudhary
+
 GitHub: https://github.com/chaudhary-sneha14
+
 
