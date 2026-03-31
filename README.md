@@ -1,5 +1,5 @@
 
-🎬 Doctor Appointment Booking System – PRESCRIPTO
+🎬 Doctor Appointment Booking System – PRESCRIPTO(MERN)
 
 A full-stack Doctor Appointment Booking System built using the MERN Stack. Patients can book appointments online, Doctors can manage schedules and earnings, and Admins can manage doctors and appointments.
 
